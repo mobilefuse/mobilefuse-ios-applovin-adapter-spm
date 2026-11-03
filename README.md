@@ -8,13 +8,13 @@ This repository publishes the Swift Package Manager distribution of the MobileFu
 
 ## Current Release
 
-`1.13.0` (adapter version `1.13.0.0`)
+`1.13.100` (adapter version `1.13.1.0`)
 
 ## Package Details
 
 The Swift package builds the MobileFuse AppLovin MAX adapter from source. It depends on:
 
-- MobileFuse iOS SDK `1.13.0` via `https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git`
+- MobileFuse iOS SDK `1.13.1` via `https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git`
 - AppLovin SDK `13.x` via `https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git`
 
 ## Versioning

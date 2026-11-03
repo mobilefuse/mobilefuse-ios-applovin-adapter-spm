@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "MobileFuseAppLovinAdapter", targets: ["MobileFuseAppLovinAdapter"])
     ],
     dependencies: [
-        .package(url: "https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git", exact: "1.13.0"),
+        .package(url: "https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git", exact: "1.13.1"),
         .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", from: "13.0.0")
     ],
     targets: [
